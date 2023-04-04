@@ -1,0 +1,9 @@
+@mixin regular_text {
+	font-size: 14px;
+	font-weight: 400;
+}
+@mixin flex_center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
